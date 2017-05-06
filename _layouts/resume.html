@@ -2,9 +2,8 @@
 <html>
 
   {% include head.html %}
-
+  
   <body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
-
     <div class="wrapper" itemscope itemtype="http://schema.org/Person">
 
       <header class="page-header">
@@ -79,8 +78,10 @@
           <h5 class="resume-item-details" itemprop="description">{{ education.awards }}</h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
         </div>
+        <br/>
         {% endfor %}
       </section>
+      <br/>
       <!-- end Education -->
       {% endif %}
 
@@ -197,11 +198,6 @@
       </section>
       <!-- end Print Social Links -->
       {% endif %}
-
-      <footer class="page-footer">
-        <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
-        <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
-      </footer>
 
     </div>
 
