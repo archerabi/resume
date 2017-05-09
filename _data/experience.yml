@@ -2,14 +2,14 @@
 - company: OnDeck
   position: Senior Software Engineer
   duration: December, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+  summary: At OnDeck our team built the loan application and loan management experience for small business owners. This website facilitated 2.4B$ in loans in 2016. Worked with a small team to build backend micro services to create higher quality leads. organize businesses and contacts. I built continuous delivery pipelines in Jenkins 2 and docker. (<b>Java, Angular, Ruby On Rails</b>)
 
 - company: Voxware
   position: Senior Software Engineer
   duration:  March, 2011 &mdash; December, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+  summary: 	Developed web and mobile apps for the logistics and warehouse industry. The core technology was voice recogntion software. <ul class="resume-item-list"><li> Maintain and support Voxware"s VXML browser on Windows CE units (java,C,C++ and javascript)</li><li>Developed a GWT/SmartGWT web application that provides a dashboard into warehouse activites and includes "gadgets" to display reports and information at a glance.</li></ul> (<b> C, C++, Java, Android </b>)
 
 - company: Grooveshark
   position: Mobile Developer
   duration:   July, 2009  &mdash; February, 2011
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+  summary: Built music streaming applications for Nokia phones. <ul class="resume-item-list"><li> Favorites and playlists </li> <li> Full search and play functionality </li> <li> Offline playback </li> <li> 60000 downloads </li> </ul>
